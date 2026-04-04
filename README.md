@@ -2,24 +2,24 @@
 
 **🚧 WORK IN PROGRESS!**
 
-According to the positive feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest in FPGA, I decided to create a separate roadmap specifically for FPGA design in this repository. 
+According to the positive feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest in FPGA, I decided to create a separate roadmap specifically for FPGA design in this repository.
 
-> [!WARNING]  
+> [!WARNING]
 > The contents in this repository are gathered from various sources to create a roadmap. At present, no sorting or filtering has been done on this information. **If you require a comprehensive roadmap right now, the contents in this repository might not yet be suitable for you.**
-
-> [!TIP]  
+> [!TIP]
 > To differentiate between the types of learning resources and the quality of their content, specific symbols are used before each item.
 >
 > **Resource types:**
+>
 > - 📘 : Books
 > - 🎞️ : Videos
 > - 📝 : Write-ups, articles, and blog posts
 > - 🔗 : Other links that do not fit into any of the above categories
 >
 > **Content quality symbols:**
+>
 > - 👶 : Easy-to-understand and beginner-friendly resources. Refer to them if you do not have prior knowledge in a topic.
 > - 💎 : Well-known references that have truly invaluable and comprehensive content. Refer to them if you want to deepen your understanding of a topic.
-
 
 ## Learning Resources
 
@@ -104,7 +104,7 @@ Deep understanding of how CPUs and memory systems work. This can be extended to 
 Knowledge of simulation tools, testbenches, and hardware debugging techniques.
 
 - [📝 Debugging with Speed and Precision: Mastering the Art of FPGA Debugging](https://fpgainsights.com/fpga/debugging-with-speed-and-precision-mastering-the-art-of-fpga-debugging/)
-    
+
 #### 🔵 Version Control
 
 Familiarity with systems like Git or Subversion is important for managing code and tracking changes.
@@ -148,7 +148,7 @@ HLS is a design methodology where the digital system is described in a high-leve
 - [📘 High-Level Synthesis Made Easy: Synthesizing Behavioral Descriptions directly into Hardware Circuits](https://www.hlsbook.com/)
 - [📘 High-Level Synthesis Blue Book](https://hlsbluebook.org/)
 - [🔗 Vitis HLS — Vitis™ Tutorials](https://xilinx.github.io/Vitis-Tutorials/2021-1/build/html/docs/Getting_Started/Vitis_HLS/Getting_Started_Vitis_HLS.html)
-    
+
 ##### 🔶 IP Core Based Design
 
 IP (Intellectual Property) cores are pre-designed circuit blocks that can be reused in multiple designs. Using IP cores can significantly speed up the design process and improve the reliability of the design, since the IP cores have been pre-verified.
@@ -172,7 +172,7 @@ This is a design methodology where testability features are added to the hardwar
 ##### 🔶 Timing-Driven Design
 
 This design methodology prioritizes meeting timing constraints. This may involve strategies such as pipelining to increase clock speed, carefully partitioning the design to reduce routing congestion, or using timing constraints files to guide the place-and-route process.
-    
+
 ##### 🔶 Resource-Optimized Design
 
 This involves making the most efficient use of FPGA resources such as logic blocks, DSP blocks, and memory blocks. It might involve strategies such as sharing resources between multiple functions, or optimizing the logic to reduce the number of logic blocks used.
@@ -182,13 +182,13 @@ These methodologies are not mutually exclusive and can often be used together in
 #### 🔵 Timing Analysis
 
 Proficiency in handling setup and hold times, clock domain crossings, and other timing-related issues.
-    
+
 #### 🔵 Embedded Systems
 
 Understanding of embedded system design, including both hardware and software aspects.
 
 - [🔗 Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
-    
+
 #### 🔵 Digital Signal Processing
 
 Depending on the application, an understanding of digital signal processing concepts can be very useful.
@@ -202,15 +202,15 @@ Depending on the application, an understanding of digital signal processing conc
 - [🎞️ Discrete Fourier Transform - Simple Step by Step](https://www.youtube.com/watch?v=mkGsMWi_j4Q)
 - [🎞️ The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://youtu.be/h7apO7q16V0)
 - [🎞️ The FFT Algorithm - Simple Step by Step](https://www.youtube.com/watch?v=htCj9exbGo0)
-    
+
 #### 🔵 Power and Thermal Management
 
 Techniques to optimize the power consumption and manage heat dissipation.
-    
+
 #### 🔵 Software Development Skills
 
 Including proficiency in languages such as C/C++, Python, and knowing how to work with software drivers for hardware interfaces.
-    
+
 #### 🔵 FPGA Toolchain
 
 Understanding of specific FPGA toolchains like Xilinx Vivado, Intel Quartus, etc.
@@ -226,31 +226,31 @@ Understanding of specific FPGA toolchains like Xilinx Vivado, Intel Quartus, etc
 - [🔗 Cadence Design Tools](https://www.cadence.com/en_US/home/tools.html)
 - [🔗 Synopsys Design Tools](https://www.synopsys.com/implementation-and-signoff.html)
 
-----------
+----------------
 
 ### ✳️ Verification Engineer
 
 The other side of the coin is the verification engineer they play a crucial role in the development of hardware and software systems, ensuring the design meets the specified requirements. Here are several important subjects and topics that a Verification Engineer should know:
-    
+
 #### 🔵 Hardware Verification Languages (HVLs)
 
 These include SystemVerilog, which is commonly used for hardware verification, and others like Property Specification Language (PSL).
 
 - [📝 SystemVerilog Tutorial](https://www.asic-world.com/systemverilog/tutorial.html)
 - [📝 Property Specification Language Tutorial](https://www.project-veripage.com/psl_tutorial_1.php)
-    
+
 #### 🔵 Testbench Creation
 
 Verification engineers must know how to develop testbenches to simulate and verify the functionality and performance of a design.
 
 - [📝 SystemVerilog TestBench](https://www.chipverify.com/systemverilog/systemverilog-simple-testbench)
-    
+
 #### 🔵 SystemVerilog Assertions and Functional Coverage
 
 These are key for ensuring the design behaves as expected under all conditions, and for making sure all important scenarios are tested.
 
 - [📘 SystemVerilog for Verification - Chris Spear , Greg Tumbush](https://link.springer.com/book/10.1007/978-1-4614-0715-7)
-    
+
 #### 🔵 Universal Verification Methodology (UVM)
 
 This is an industry-standard methodology for verification of hardware designs.
@@ -259,7 +259,7 @@ This is an industry-standard methodology for verification of hardware designs.
 - [📝 UVM 1.2 User Guide](http://www.accellera.org/images//downloads/standards/uvm/uvm_users_guide_1.2.pdf)
 - [📝 UVM Guide for Beginners](https://colorlesscube.com/uvm-guide-for-beginners/)
 - [📘 The UVM Primer: A Step-by-Step Introduction to the Universal Verification Methodology - Ray Salemi](https://www.amazon.com/dp/0974164933?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_SFYBP2WRG9PGJYY6RBEE)
-    
+
 #### 🔵 Formal Verification Methods
 
 Including equivalence checking and model checking.
