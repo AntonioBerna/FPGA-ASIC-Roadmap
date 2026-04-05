@@ -53,6 +53,10 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🔗 FPGA 4 Fun](https://www.fpga4fun.com/)
 - [🔗 AMD Based FPGA Projects - Whitney Knitter](https://hackster.io/whitney-knitter)
 - [🔗 AMD Based FPGA Projects - Adam Taylor](https://www.hackster.io/adam-taylor)
+- [🔗 Aegis - MidstallSoftware](https://github.com/MidstallSoftware/aegis)
+- [🔗 OpenSignal](https://github.com/asifali411/OpenSignal)
+- [📝 Quake 2 on FPGA](https://blog.mikhe.ch/quake2-on-fpga/)
+- [🔗 mVIDIA](https://jaso1024.com/mvidia/)
 - [🎞️ RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
 - [🎞️ SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
 
@@ -89,6 +93,23 @@ Fundamental concepts in digital system design like logic gates, finite-state mac
 - [📘 Digital Design and Computer Architecture: ARM Edition -  Sarah Harris, David Harris](https://a.co/d/4otoVvI)
 - [📘 Digital Design and Computer Architecture: RISC-V Edition -  Sarah Harris, David Harris](https://a.co/d/61l7Jtb)
 - [📘 Digital Fundamentals - Thomas L. Floyd](https://a.co/d/2lgJKNX)
+
+#### 🔵 Pipeline Design and Flow Control (Skid Buffer / FIFO for Pipeline)
+
+Resources focused on decoupling stages, managing backpressure, and avoiding timing bottlenecks in pipelined designs.
+
+- [📝 Skid Buffer (ZipCPU)](https://zipcpu.com/blog/2019/05/22/skidbuffer.html)
+- [📝 Pipeline Skid Buffer (FPGA CPU)](https://fpgacpu.ca/fpga/Pipeline_Skid_Buffer.html)
+- [📝 Designing Skid Buffers for Pipelines (Chipmunk Logic)](https://chipmunklogic.com/digital-logic-design/designing-skid-buffers-for-pipelines/)
+- [📝 A Case Study on Effective Pipeline Design in Digital System](https://verilog-meetup.com/2024/06/20/a-case-study-on-effective-pipeline-design-in-digital-system/)
+
+#### 🔵 Simulation and Digital Waveforms
+
+Tools for generating and visualizing waveforms and logic behavior during design and verification.
+
+- [🔗 WaveDrom](https://wavedrom.com/)
+- [🔗 DigitalJS](https://digitaljs.tilk.eu/#)
+- [🔗 Monosketch](https://monosketch.io/)
 
 #### 🔵 Computer Architecture
 
@@ -210,6 +231,8 @@ Techniques to optimize the power consumption and manage heat dissipation.
 #### 🔵 Software Development Skills
 
 Including proficiency in languages such as C/C++, Python, and knowing how to work with software drivers for hardware interfaces.
+
+- [📘 The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)
 
 #### 🔵 FPGA Toolchain
 
