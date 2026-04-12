@@ -47,6 +47,7 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🎞️ Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
 - [🎞️ Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
 - [🔗👶 FPGA 4 Students](https://www.fpga4student.com/)
+- [🔗👶 Access an FPGA right now!](https://ps1.fpgas.online/fpgas/)
 
 ## Projects
 
@@ -59,6 +60,7 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🔗 mVIDIA](https://jaso1024.com/mvidia/)
 - [🎞️ RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
 - [🎞️ SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
+- [🔗 FPGA Conway](https://github.com/AdaMahdavi/FPGA-Conway)
 
 ## Roadmap
 
@@ -119,6 +121,7 @@ Deep understanding of how CPUs and memory systems work. This can be extended to 
 - [📘 Digital Design and Computer Architecture: ARM Edition -  Sarah Harris, David Harris](https://a.co/d/4otoVvI)
 - [📘 Digital Design and Computer Architecture: RISC-V Edition -  Sarah Harris, David Harris](https://a.co/d/61l7Jtb)
 - [🎞️ Build an 8-bit computer from scratch](https://eater.net/8bit/)
+- [📝 Every GPU Architecture in a Staggering Visual Timeline](https://sheets.works/data-viz/every-gpu)
 
 #### 🔵 Test and Debugging Techniques
 
@@ -248,6 +251,7 @@ Understanding of specific FPGA toolchains like Xilinx Vivado, Intel Quartus, etc
 - [🔗 Lattice FPGA Design Software](https://www.latticesemi.com/Products/DesignSoftwareAndIP)
 - [🔗 Cadence Design Tools](https://www.cadence.com/en_US/home/tools.html)
 - [🔗 Synopsys Design Tools](https://www.synopsys.com/implementation-and-signoff.html)
+- [🔗 nextpnr](https://github.com/YosysHQ/nextpnr)
 
 ----------------
 
@@ -260,6 +264,8 @@ The other side of the coin is the verification engineer they play a crucial role
 These include SystemVerilog, which is commonly used for hardware verification, and others like Property Specification Language (PSL).
 
 - [📝 SystemVerilog Tutorial](https://www.asic-world.com/systemverilog/tutorial.html)
+- [📝 SystemVerilog.io](https://www.systemverilog.io/)
+- [📝 Sv-lang](https://sv-lang.com/index.html)
 - [📝 Property Specification Language Tutorial](https://www.project-veripage.com/psl_tutorial_1.php)
 
 #### 🔵 Testbench Creation
