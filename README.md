@@ -266,6 +266,7 @@ These include SystemVerilog, which is commonly used for hardware verification, a
 - [📝 SystemVerilog Tutorial](https://www.asic-world.com/systemverilog/tutorial.html)
 - [📝 SystemVerilog.io](https://www.systemverilog.io/)
 - [📝 Sv-lang](https://sv-lang.com/index.html)
+- [📝 VLSI Verify](https://vlsiverify.com/)
 - [📝 Property Specification Language Tutorial](https://www.project-veripage.com/psl_tutorial_1.php)
 
 #### 🔵 Testbench Creation
