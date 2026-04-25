@@ -56,6 +56,14 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🎞️ Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
 - [🔗👶 FPGA 4 Students](https://www.fpga4student.com/)
 - [🔗👶 Access an FPGA right now!](https://ps1.fpgas.online/fpgas/)
+- [📝 Designing a Custom AXI Slave (Avnet PDF)](https://www.avnet.com/wcm/connect/557e3453-20d7-4737-b2a8-8afc404dc81e/designing_a_custom_axi_slave_rev1.pdf?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CVID=picU33N)
+- [🎞️👶 Neso Academy - Electronics & Communication](https://www.nesoacademy.org/home/Electronics%20&%20Communication)
+- [🎞️ edX - MITx: Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis)
+- [🎞️ YouTube Playlist (PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM)](https://www.youtube.com/playlist?list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM)
+- [🔗💎 Computation Structures](https://computationstructures.org/index.html)
+- [🎞️ YouTube Playlist (PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0)](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0)
+- [🎞️ YouTube Playlist (PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
+- [🎞️ YouTube Playlist (PLuv3GM6-gsE01L9yDO0e5UhQapkCPGnY3)](https://www.youtube.com/playlist?list=PLuv3GM6-gsE01L9yDO0e5UhQapkCPGnY3)
 
 ## Projects
 
