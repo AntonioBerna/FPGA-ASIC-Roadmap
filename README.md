@@ -118,7 +118,6 @@ Fundamental concepts in digital system design like logic gates, finite-state mac
 - [📘 Digital Fundamentals - Thomas L. Floyd](https://a.co/d/2lgJKNX)
 - [🔗 IC Design Tips](https://www.icdesigntips.com/)
 
-
 #### 🔵 Pipeline Design and Flow Control (Skid Buffer / FIFO for Pipeline)
 
 Resources focused on decoupling stages, managing backpressure, and avoiding timing bottlenecks in pipelined designs.
